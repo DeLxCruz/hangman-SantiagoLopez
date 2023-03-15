@@ -1,0 +1,22 @@
+const words = [
+    'mujer', 
+    'gente', 
+    'caballero', 
+    'pie', 
+    'oreja', 
+    'hueso', 
+    'pareja', 
+    'abuelo', 
+    'nieto', 
+    'criatura', 
+    'desierto', 
+    'naturaleza', 
+    'energia', 
+    'jirafa', 
+    'langosta', 
+    'almendra', 
+    'manzana',
+    'tiempo', 
+    'calendario',
+    'universo'
+];

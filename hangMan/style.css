@@ -1,0 +1,63 @@
+#img-Hangman { 
+    display: none;
+    height: 212px;
+    width: 200px;
+    background-image: url(./hangman-game_pm-1024x212.png);
+}
+
+h1 { 
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:aquamarine;
+}
+
+body {
+    background-image: url(./blob-scene-haikei.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#input {
+    padding: 12px 24px;
+    border-radius: 16px;
+}
+
+#ctnWord {
+    color: aliceblue;
+    font-size: 22px;
+    display: none;
+}
+
+#btnGame { 
+    margin-top: 2rem;
+    padding: 8px 1rem;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    display: none;
+}
+
+#play {
+    margin-top: 2rem;
+    padding: 8px 1rem;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+#input {
+    display: none;
+}
+
+
